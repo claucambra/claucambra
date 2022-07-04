@@ -1,4 +1,10 @@
-### Hi there 👋
+### Also find me on...
+
+- [⚙️ KDE's GitLab](https://invent.kde.org/clau-cambra)
+
+- [📽 VLC's GitLab](https://code.videolan.org/claucambra)
+
+- [👋 GitLab](https://gitlab.com/claucambra)
 
 <!--
 **claucambra/claucambra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
